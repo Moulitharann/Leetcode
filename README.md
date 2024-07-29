@@ -33,6 +33,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Moulitharann/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Moulitharann/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
@@ -129,4 +130,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
