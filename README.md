@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Moulitharann/Leetcode/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Moulitharann/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
