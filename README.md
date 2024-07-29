@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Moulitharann/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -92,11 +93,13 @@
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Moulitharann/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
