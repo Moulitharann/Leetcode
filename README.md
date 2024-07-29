@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -109,6 +111,7 @@
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
