@@ -96,11 +96,13 @@
 | [0219-contains-duplicate-ii](https://github.com/Moulitharann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
 ## Stack
 |  |
 | ------- |
