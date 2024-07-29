@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Moulitharann/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Moulitharann/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Moulitharann/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Moulitharann/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Moulitharann/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Moulitharann/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Moulitharann/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Moulitharann/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Moulitharann/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
