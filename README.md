@@ -36,6 +36,7 @@
 | [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Moulitharann/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Moulitharann/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Moulitharann/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Moulitharann/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Moulitharann/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
