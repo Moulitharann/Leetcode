@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Moulitharann/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Moulitharann/Leetcode/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
