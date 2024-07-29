@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/Moulitharann/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/Moulitharann/Leetcode/tree/master/0330-patching-array) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Moulitharann/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Moulitharann/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Moulitharann/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -71,6 +74,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -80,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
