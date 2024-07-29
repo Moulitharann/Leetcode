@@ -39,6 +39,7 @@
 | [0367-valid-perfect-square](https://github.com/Moulitharann/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Moulitharann/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
