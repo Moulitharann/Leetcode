@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Moulitharann/Leetcode/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
