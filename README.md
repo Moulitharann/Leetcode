@@ -66,6 +66,7 @@
 | [0015-3sum](https://github.com/Moulitharann/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Moulitharann/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
+| [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Moulitharann/Leetcode/tree/master/0812-rotate-string) |
 ## Stack
 |  |
