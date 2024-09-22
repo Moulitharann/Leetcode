@@ -212,4 +212,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Moulitharann/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Moulitharann/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
