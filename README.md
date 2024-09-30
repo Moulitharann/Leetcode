@@ -110,6 +110,7 @@
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@
 | [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Moulitharann/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Stack
 |  |
