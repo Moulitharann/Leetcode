@@ -1,19 +1,13 @@
 class Solution {
     public int minimizedStringLength(String s) {
-        char []ch=s.toCharArray();
-        int[] count=new int[26];
-        int res=0;
-        for(char c:ch)
-        {
-            count[c-'a']++;
-        }
-        for(int a:count)
-        {
-            if(a>0)
-            {
-                res++;
-            }
-        }
-        return res;
+       ArrayList<Character> ch=new ArrayList<>();
+       for(char c:s.toCharArray())
+       {
+         if(!ch.contains(c))
+         {
+             ch.add(c);
+         }
+       }
+       return ch.size();
     }
 }
