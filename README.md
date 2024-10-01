@@ -23,6 +23,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Moulitharann/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Moulitharann/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Moulitharann/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Divide and Conquer
 |  |
@@ -110,6 +111,7 @@
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
@@ -131,6 +133,7 @@
 | [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2825-minimize-string-length](https://github.com/Moulitharann/Leetcode/tree/master/2825-minimize-string-length) |
 ## String
