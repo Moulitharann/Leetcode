@@ -19,6 +19,7 @@
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Moulitharann/Leetcode/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
+| [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [1022-unique-paths-iii](https://github.com/Moulitharann/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Moulitharann/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Moulitharann/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -73,11 +74,13 @@
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Moulitharann/Leetcode/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/Moulitharann/Leetcode/tree/master/0330-patching-array) |
+| [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Moulitharann/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2825-minimize-string-length](https://github.com/Moulitharann/Leetcode/tree/master/2825-minimize-string-length) |
