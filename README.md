@@ -26,6 +26,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Moulitharann/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Moulitharann/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Divide and Conquer
 |  |
@@ -94,6 +95,7 @@
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Moulitharann/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Moulitharann/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
