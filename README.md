@@ -80,6 +80,7 @@
 | [0088-merge-sorted-array](https://github.com/Moulitharann/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Moulitharann/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -151,6 +152,7 @@
 | [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -170,6 +172,7 @@
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Moulitharann/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
@@ -198,6 +201,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moulitharann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Moulitharann/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
