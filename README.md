@@ -35,6 +35,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Moulitharann/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
@@ -98,6 +99,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Moulitharann/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Moulitharann/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Moulitharann/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
