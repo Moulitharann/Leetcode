@@ -103,6 +103,7 @@
 | [0330-patching-array](https://github.com/Moulitharann/Leetcode/tree/master/0330-patching-array) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Moulitharann/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Moulitharann/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -151,6 +152,7 @@
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -204,6 +206,7 @@
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
