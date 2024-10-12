@@ -199,6 +199,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Moulitharann/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2365-percentage-of-letter-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/Moulitharann/Leetcode/tree/master/2825-minimize-string-length) |
