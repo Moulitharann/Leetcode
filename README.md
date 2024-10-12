@@ -67,6 +67,7 @@
 | [0371-sum-of-two-integers](https://github.com/Moulitharann/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0330-patching-array](https://github.com/Moulitharann/Leetcode/tree/master/0330-patching-array) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
+| [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Moulitharann/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Moulitharann/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -200,6 +202,7 @@
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Moulitharann/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2365-percentage-of-letter-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
