@@ -238,6 +238,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Moulitharann/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/3379-score-of-a-string) |
+| [3468-find-the-encrypted-string](https://github.com/Moulitharann/Leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
