@@ -110,6 +110,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
+| [1304-longest-happy-string](https://github.com/Moulitharann/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Moulitharann/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/Moulitharann/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Moulitharann/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Moulitharann/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Moulitharann/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -223,6 +225,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Moulitharann/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1304-longest-happy-string](https://github.com/Moulitharann/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1532-reformat-the-string](https://github.com/Moulitharann/Leetcode/tree/master/1532-reformat-the-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
