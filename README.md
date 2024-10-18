@@ -235,6 +235,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Moulitharann/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1304-longest-happy-string](https://github.com/Moulitharann/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Moulitharann/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1532-reformat-the-string](https://github.com/Moulitharann/Leetcode/tree/master/1532-reformat-the-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
