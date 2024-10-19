@@ -97,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Moulitharann/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0481-magical-string](https://github.com/Moulitharann/Leetcode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -227,6 +228,7 @@
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Moulitharann/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0481-magical-string](https://github.com/Moulitharann/Leetcode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Moulitharann/Leetcode/tree/master/0812-rotate-string) |
