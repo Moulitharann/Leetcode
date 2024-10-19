@@ -238,6 +238,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Moulitharann/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1532-reformat-the-string](https://github.com/Moulitharann/Leetcode/tree/master/1532-reformat-the-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Moulitharann/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -306,6 +307,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Moulitharann/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Moulitharann/Leetcode/tree/master/0326-power-of-three) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
