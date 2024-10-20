@@ -236,6 +236,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Moulitharann/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Moulitharann/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Moulitharann/Leetcode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Moulitharann/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -269,6 +270,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Moulitharann/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Moulitharann/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Moulitharann/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Moulitharann/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Moulitharann/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -309,6 +311,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Moulitharann/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Moulitharann/Leetcode/tree/master/0326-power-of-three) |
+| [1197-parsing-a-boolean-expression](https://github.com/Moulitharann/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
