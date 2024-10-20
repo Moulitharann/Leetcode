@@ -137,6 +137,7 @@
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0807-custom-sort-string](https://github.com/Moulitharann/Leetcode/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -203,6 +204,7 @@
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0807-custom-sort-string](https://github.com/Moulitharann/Leetcode/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -231,6 +233,7 @@
 | [0481-magical-string](https://github.com/Moulitharann/Leetcode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Moulitharann/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/Moulitharann/Leetcode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Moulitharann/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
