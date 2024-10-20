@@ -299,6 +299,7 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Moulitharann/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/Moulitharann/Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Moulitharann/Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1390-average-selling-price](https://github.com/Moulitharann/Leetcode/tree/master/1390-average-selling-price) |
 ## Sliding Window
 |  |
 | ------- |
