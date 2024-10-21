@@ -209,6 +209,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Moulitharann/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Moulitharann/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Moulitharann/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -245,6 +246,7 @@
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Moulitharann/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1532-reformat-the-string](https://github.com/Moulitharann/Leetcode/tree/master/1532-reformat-the-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Moulitharann/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Moulitharann/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -282,6 +284,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Moulitharann/Leetcode/tree/master/0046-permutations) |
 | [1022-unique-paths-iii](https://github.com/Moulitharann/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Moulitharann/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
