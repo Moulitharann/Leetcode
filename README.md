@@ -78,6 +78,7 @@
 | [0412-fizz-buzz](https://github.com/Moulitharann/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Moulitharann/Leetcode/tree/master/0670-maximum-swap) |
+| [1610-xor-operation-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@
 | [0371-sum-of-two-integers](https://github.com/Moulitharann/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Moulitharann/Leetcode/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/Moulitharann/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1610-xor-operation-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
