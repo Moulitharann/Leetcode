@@ -36,6 +36,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Moulitharann/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Moulitharann/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Moulitharann/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -350,6 +351,7 @@
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Moulitharann/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -370,6 +372,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Moulitharann/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1022-unique-paths-iii](https://github.com/Moulitharann/Leetcode/tree/master/1022-unique-paths-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Moulitharann/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String Matching
 |  |
 | ------- |
