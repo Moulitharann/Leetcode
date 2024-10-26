@@ -306,6 +306,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Moulitharann/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Moulitharann/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Moulitharann/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Moulitharann/Leetcode/tree/master/0196-delete-duplicate-emails) |
