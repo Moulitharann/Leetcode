@@ -186,6 +186,7 @@
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1472-increasing-decreasing-string](https://github.com/Moulitharann/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Moulitharann/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -217,6 +218,7 @@
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Moulitharann/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1472-increasing-decreasing-string](https://github.com/Moulitharann/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Moulitharann/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Moulitharann/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Moulitharann/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -258,6 +260,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Moulitharann/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Moulitharann/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1472-increasing-decreasing-string](https://github.com/Moulitharann/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1532-reformat-the-string](https://github.com/Moulitharann/Leetcode/tree/master/1532-reformat-the-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Moulitharann/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
