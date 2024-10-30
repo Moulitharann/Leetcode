@@ -36,6 +36,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Moulitharann/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Moulitharann/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1923-sentence-similarity-iii](https://github.com/Moulitharann/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Moulitharann/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Moulitharann/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Moulitharann/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -83,6 +84,7 @@
 | [0415-add-strings](https://github.com/Moulitharann/Leetcode/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Moulitharann/Leetcode/tree/master/0670-maximum-swap) |
 | [1610-xor-operation-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
