@@ -261,6 +261,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/Moulitharann/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Moulitharann/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Moulitharann/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Moulitharann/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Moulitharann/Leetcode/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Moulitharann/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Moulitharann/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
