@@ -283,6 +283,7 @@
 | [2365-percentage-of-letter-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2547-odd-string-difference](https://github.com/Moulitharann/Leetcode/tree/master/2547-odd-string-difference) |
+| [2580-circular-sentence](https://github.com/Moulitharann/Leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/Moulitharann/Leetcode/tree/master/2825-minimize-string-length) |
