@@ -290,6 +290,7 @@
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/Moulitharann/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Moulitharann/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Moulitharann/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Moulitharann/Leetcode/tree/master/3451-string-compression-iii) |
