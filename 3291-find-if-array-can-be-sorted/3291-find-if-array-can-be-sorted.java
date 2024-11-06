@@ -11,7 +11,9 @@ class Solution {
                 else {
                     if(Integer.bitCount(nums[j])==Integer.bitCount(nums[j+1]))
                     {
-                        swap(nums,j,j+1);
+                        int temp=nums[j];
+                        nums[j]=nums[j+1];
+                        nums[j+1]=temp;
                     }
                     else
                     {
@@ -21,11 +23,5 @@ class Solution {
             }
         }
         return true;
-    }
-    private void swap(int[] nums,int j,int k)
-    {
-        int temp=nums[j];
-        nums[j]=nums[k];
-        nums[k]=temp;
     }
 }
