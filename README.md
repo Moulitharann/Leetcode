@@ -53,6 +53,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Moulitharann/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1022-unique-paths-iii](https://github.com/Moulitharann/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Moulitharann/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
