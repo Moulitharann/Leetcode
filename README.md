@@ -54,6 +54,7 @@
 | [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Moulitharann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Recursion
 |  |
 | ------- |
