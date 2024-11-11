@@ -51,6 +51,7 @@
 | [2547-odd-string-difference](https://github.com/Moulitharann/Leetcode/tree/master/2547-odd-string-difference) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Moulitharann/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Moulitharann/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -89,6 +90,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/Moulitharann/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Moulitharann/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Moulitharann/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/Moulitharann/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/Moulitharann/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -211,6 +214,7 @@
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Moulitharann/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +392,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
+| [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
