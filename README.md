@@ -428,6 +428,7 @@
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Moulitharann/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Moulitharann/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -439,6 +440,7 @@
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Moulitharann/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1308-smallest-string-with-swaps](https://github.com/Moulitharann/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Moulitharann/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -461,6 +463,7 @@
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Moulitharann/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Moulitharann/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
