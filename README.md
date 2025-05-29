@@ -73,6 +73,7 @@
 | [0053-maximum-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Moulitharann/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Moulitharann/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1511-count-number-of-teams](https://github.com/Moulitharann/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Moulitharann/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -433,6 +434,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Moulitharann/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Moulitharann/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Moulitharann/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -452,6 +454,7 @@
 | [0100-same-tree](https://github.com/Moulitharann/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Moulitharann/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -492,6 +495,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Moulitharann/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Moulitharann/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Moulitharann/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Moulitharann/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
