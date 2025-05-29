@@ -424,6 +424,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Moulitharann/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Moulitharann/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Moulitharann/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -441,6 +442,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Moulitharann/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Moulitharann/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -471,6 +473,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Moulitharann/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Moulitharann/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Moulitharann/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -521,4 +524,8 @@
 |  |
 | ------- |
 | [1308-smallest-string-with-swaps](https://github.com/Moulitharann/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Moulitharann/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
