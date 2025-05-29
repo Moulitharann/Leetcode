@@ -432,6 +432,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Moulitharann/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -447,6 +448,7 @@
 | [0101-symmetric-tree](https://github.com/Moulitharann/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -481,6 +483,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Moulitharann/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -528,4 +531,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Moulitharann/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
