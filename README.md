@@ -258,6 +258,7 @@
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Moulitharann/Leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Moulitharann/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moulitharann/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -373,6 +374,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Moulitharann/Leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Moulitharann/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -434,6 +436,7 @@
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Moulitharann/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -450,6 +453,7 @@
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Moulitharann/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -467,6 +471,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Moulitharann/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Moulitharann/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Moulitharann/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Moulitharann/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -485,6 +490,7 @@
 | [0226-invert-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Moulitharann/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
