@@ -15,16 +15,21 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        boolean ans=isSametree(root.left,root.right);
-        return ans;
-    }
-    public boolean isSametree(TreeNode p,TreeNode q)
-    {
-        if(p==null || q==null)
-        {
-            return p==q;
+        if(root==null) return true;
+        Queue<TreeNode> left=new LinkedList();
+        Queue<TreeNode> right=new LinkedList();
+        left.add(root.left);
+        right.add(root.right);
+        while(!left.isEmpty() || !right.isEmpty()){
+            TreeNode left1=left.poll();
+            TreeNode right1=right.poll();
+            if(left1==null  && right1 ==null)  continue;
+            if(left1== null || right1 == null || left1.val != right1.val) return false;
+            left.add(left1.left);
+            left.add(left1.right);
+            right.add(right1.right);
+            right.add(right1.left);
         }
-        
-        return (p.val == q.val) && isSametree(p.left , q.right) && isSametree(p.right, q.left); 
+        return true;
     }
 }
