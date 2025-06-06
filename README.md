@@ -443,6 +443,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -464,6 +465,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -507,6 +509,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Moulitharann/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
