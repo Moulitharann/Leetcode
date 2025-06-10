@@ -369,6 +369,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Moulitharann/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Moulitharann/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Moulitharann/Leetcode/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/Moulitharann/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -540,6 +541,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Moulitharann/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0859-design-circular-deque](https://github.com/Moulitharann/Leetcode/tree/master/0859-design-circular-deque) |
 ## Monotonic Stack
 |  |
