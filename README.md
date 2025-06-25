@@ -45,6 +45,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Moulitharann/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Moulitharann/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Moulitharann/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Moulitharann/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -222,6 +223,7 @@
 | [0367-valid-perfect-square](https://github.com/Moulitharann/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Moulitharann/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Moulitharann/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
