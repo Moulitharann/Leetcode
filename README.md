@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/Moulitharann/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Moulitharann/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Moulitharann/Leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Moulitharann/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Moulitharann/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Moulitharann/Leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Moulitharann/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Moulitharann/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Moulitharann/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Moulitharann/Leetcode/tree/master/0268-missing-number) |
@@ -414,6 +416,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Moulitharann/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Moulitharann/Leetcode/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Indexed Tree
@@ -561,6 +564,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Moulitharann/Leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Moulitharann/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Union Find
 |  |
