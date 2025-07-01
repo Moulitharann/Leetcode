@@ -556,6 +556,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Moulitharann/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Moulitharann/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Moulitharann/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0859-design-circular-deque](https://github.com/Moulitharann/Leetcode/tree/master/0859-design-circular-deque) |
 ## Monotonic Stack
 |  |
