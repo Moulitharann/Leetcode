@@ -321,6 +321,7 @@
 | [3451-string-compression-iii](https://github.com/Moulitharann/Leetcode/tree/master/3451-string-compression-iii) |
 | [3468-find-the-encrypted-string](https://github.com/Moulitharann/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Moulitharann/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -414,6 +415,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3811-reverse-degree-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
