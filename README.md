@@ -320,6 +320,7 @@
 | [3379-score-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Moulitharann/Leetcode/tree/master/3451-string-compression-iii) |
 | [3468-find-the-encrypted-string](https://github.com/Moulitharann/Leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Moulitharann/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
