@@ -296,6 +296,7 @@
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Moulitharann/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1472-increasing-decreasing-string](https://github.com/Moulitharann/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1532-reformat-the-string](https://github.com/Moulitharann/Leetcode/tree/master/1532-reformat-the-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Moulitharann/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Moulitharann/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Moulitharann/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Moulitharann/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -548,6 +549,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Moulitharann/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Moulitharann/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Moulitharann/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Moulitharann/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Ordered Set
