@@ -63,6 +63,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Moulitharann/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Moulitharann/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Moulitharann/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@
 | [0152-maximum-product-subarray](https://github.com/Moulitharann/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1511-count-number-of-teams](https://github.com/Moulitharann/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Moulitharann/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Moulitharann/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Math
 |  |
 | ------- |
