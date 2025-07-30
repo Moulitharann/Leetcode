@@ -338,6 +338,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Moulitharann/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Moulitharann/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Moulitharann/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -402,6 +403,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Moulitharann/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Moulitharann/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Moulitharann/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -411,6 +413,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Moulitharann/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Moulitharann/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Moulitharann/Leetcode/tree/master/0859-design-circular-deque) |
 ## Simulation
