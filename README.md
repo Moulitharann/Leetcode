@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Moulitharann/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Moulitharann/Leetcode/tree/master/0859-design-circular-deque) |
+| [0940-fruit-into-baskets](https://github.com/Moulitharann/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Moulitharann/Leetcode/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/Moulitharann/Leetcode/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/Moulitharann/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -253,6 +254,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moulitharann/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0807-custom-sort-string](https://github.com/Moulitharann/Leetcode/tree/master/0807-custom-sort-string) |
+| [0940-fruit-into-baskets](https://github.com/Moulitharann/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Moulitharann/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Moulitharann/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Moulitharann/Leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -388,6 +390,7 @@
 | [0567-permutation-in-string](https://github.com/Moulitharann/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Moulitharann/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Moulitharann/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Moulitharann/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Moulitharann/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
