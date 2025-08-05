@@ -67,6 +67,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Moulitharann/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Moulitharann/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Moulitharann/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Moulitharann/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Moulitharann/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2716-prime-subtraction-operation](https://github.com/Moulitharann/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3790-fruits-into-baskets-ii](https://github.com/Moulitharann/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Moulitharann/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Moulitharann/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Moulitharann/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
@@ -563,6 +566,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Moulitharann/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -575,6 +579,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Moulitharann/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Moulitharann/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
