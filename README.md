@@ -67,6 +67,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Moulitharann/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Moulitharann/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Moulitharann/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Moulitharann/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/Moulitharann/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -87,6 +88,7 @@
 | [1511-count-number-of-teams](https://github.com/Moulitharann/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Moulitharann/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Moulitharann/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Moulitharann/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 | [0063-unique-paths-ii](https://github.com/Moulitharann/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1022-unique-paths-iii](https://github.com/Moulitharann/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Moulitharann/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Moulitharann/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String Matching
 |  |
 | ------- |
