@@ -280,6 +280,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Moulitharann/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Moulitharann/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Moulitharann/Leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Moulitharann/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Moulitharann/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Moulitharann/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Moulitharann/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Moulitharann/Leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Moulitharann/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Moulitharann/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/Moulitharann/Leetcode/tree/master/0874-backspace-string-compare) |
