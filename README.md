@@ -324,6 +324,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/Moulitharann/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Moulitharann/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Moulitharann/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Moulitharann/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Moulitharann/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Moulitharann/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
